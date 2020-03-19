@@ -2,13 +2,13 @@
   "name": "asteroid",
   "version": "0.6.1",
   "description": "Aletrnative Meteor client",
-  "main": "dist/asteroid.node.js",
+  "main": "dist/asteroid.browser.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha ./test/asteroid.unit.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mondora/asteroid"
+    "url": "https://github.com/jeewangue/asteroid"
   },
   "keywords": [
     "ddp",
